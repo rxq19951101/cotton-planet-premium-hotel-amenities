@@ -1,0 +1,9 @@
+
+{
+  "name": "Cotton Planet - Premium Hotel Amenities",
+  "description": "A sophisticated hotel supplies introduction website for Cotton Planet, featuring product catalogs, company history, and seamless WhatsApp integration for global hospitality partners.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
